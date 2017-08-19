@@ -1,0 +1,2 @@
+# Dynamic-Allocation
+This code has been written to understand the dynamic allocation in linux. Here, I have tried to implement "malloc" and "free" functions exposed by C over and array. There are two codes one - that handles fixed sized block allocation, this is good for embedded system where you know the block size. second code - is for dynamic sized allocation and it uses fixed sized allocation code for internal note keeping. 
